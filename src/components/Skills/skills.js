@@ -6,7 +6,7 @@ import AppDesign from '../../assets/app-design.jpg';
 
 const Skill = () => {
   return (
-    <section id='skill'>
+    <section id='skills'>
         <span className='skillTitle'>What I do</span>
         <span className='skillDesc'>I am skilled and passionate web designer with experience in creating visually appealing and user-friendly websites.I have a strong understanding of design and a keen eye for details.I am proficient in HTML,CSS,JavaScript as well as data manipulations, data cleaning, data handling also i am well educated with pythons libraries.</span>
         <div className='skillBar'>
